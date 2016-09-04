@@ -1,6 +1,6 @@
 FactoryGirl.define do
   factory :artist do
-    name       "Bob Marley"
-    image_path "http://cps-static.rovicorp.com/3/JPG_400/MI0003/146/MI0003146038.jpg"
+    name       "Mac Demarco"
+    image_path "http://nme.assets.ipccdn.co.uk/images/2015MacDeMarco-PG-7220715.article_x4.jpg"
   end
 end
